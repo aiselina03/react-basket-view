@@ -1,0 +1,40 @@
+{
+  "skincare": [
+    {
+      "id": 1,
+      "name": "Skincare set",
+      "price": "220",
+      "image": "https://i.pinimg.com/originals/ee/f5/43/eef5432b7d1f7e8be910f477bd1948ba.png"
+    },
+    {
+      "id": 2,
+      "name": "Makeup set",
+      "price": "190",
+      "image": "https://media.allure.com/photos/5d697ecb65ca9e0008be00d5/master/w_1600%2Cc_limit/Florence%2520by%2520Mills%2520Makeup.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Haircare set",
+      "price": "130",
+      "image": "https://cdn.kicks.se/globalassets/images/inspiration/seo-artiklar/brands/2040x1200_florencebymills_best_se_fi.jpg?ref=1419666&w=2049"
+    },
+    {
+      "id": 4,
+      "name": "Fragrance",
+      "price": "70",
+      "image": "https://www.premiumbeautynews.com/IMG/jpg/900x600_wildly-me_03.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Accessories",
+      "price": "15",
+      "image": "https://images.milledcdn.com/2021-10-21/_xcHsNygzrDFLDJC/hEhFwxYk-e5s.png"
+    },
+    {
+      "id": 6,
+      "name": "Gifts and Kits",
+      "price": "30",
+      "image": "https://adventcalendar.co.uk/wp-content/uploads/2021/11/florence-mills-advent-calendar-2022-content-beauty.jpg"
+    }
+  ]
+}

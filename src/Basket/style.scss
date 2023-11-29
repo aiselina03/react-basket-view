@@ -1,0 +1,26 @@
+table {
+    border: 1px solid gray;
+    width: 60%;
+    text-align: center;
+    th,
+    td {
+      font-size: 18px;
+      height: 20px;
+      border: 1px solid gray;
+    }
+    td {
+      width: 20px;
+    }}
+.cards {
+  display: grid;
+  place-items: center;
+  grid-template-columns: auto auto auto auto;
+  gap: 50px;
+  .card {
+    img {
+      width: 200px;
+      height: 200px;
+
+    }
+  }
+}
